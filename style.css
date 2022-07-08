@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 100px auto;
+}
+td, th{
+  border: 2px solid gainsboro;
+  padding: 5px 15px;
+}
+table{
+  border-collapse: collapse;
+}
